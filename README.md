@@ -1,3 +1,24 @@
+# Landing Page Deadpool
+
+<hr/>
+
+![Landing Page - DeadPool - Google Chrome 25_10_2022 13_38_47](https://user-images.githubusercontent.com/85812823/197834389-4356d3dc-f965-4b74-9670-123acf059714.png)
+
+<hr/>
+
+
+
+
+https://user-images.githubusercontent.com/85812823/197834505-a1bbbf33-3451-4062-8429-cb69c01c44f2.mp4
+
+
+
+
+ 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +89,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# landingPageDeadpool
